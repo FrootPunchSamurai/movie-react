@@ -1,5 +1,6 @@
 A simple webpage that can search and display movies
 
-##LIVE DEMO
+## :point_down: Live Preview
 
-https://mellow-marigold-99f5f4.netlify.app/
+[LIVE DEMO](https://mellow-marigold-99f5f4.netlify.app/)
+
